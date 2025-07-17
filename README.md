@@ -93,7 +93,7 @@ A responsive **Masonry-style image gallery** with filter categories, pagination,
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/masonry-image-gallery.git
+https://github.com/Anurag1742/Image-Gallery-
 ```
 
 2. Add your own images to the `gallery` folder.
